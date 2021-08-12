@@ -1,4 +1,3 @@
-How to Employee Record Management System
 1. Download the zip file
 
 2. Extract the file and copy erms folder
