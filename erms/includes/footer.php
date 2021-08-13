@@ -1,7 +1,7 @@
    <footer class="sticky-footer bg-white">
         <div class="container my-auto">
           <div class="copyright text-center my-auto">
-            <span>Copyright &copy; PHPGurukul ERMS Project 2020</span>
+            <span>WELCOME!!!</span>
           </div>
         </div>
       </footer>
